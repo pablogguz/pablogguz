@@ -2,7 +2,7 @@
 
 I'm Pablo. 
 
-I work as an Analyst at the EBRD's Office of the Chief Economist. Previously, I was a pre-doctoral research assistant working with Miguel Almunia and Claudia Hupkau, and an intern at the Bank of Spain. I studied economics at the LSE and UC3M.
+I work as an Analyst at the [EBRD's Office of the Chief Economist](https://www.ebrd.com/what-we-do/economic-research-and-data/office-of-the-chief-economist.html). Previously, I was a pre-doctoral research assistant working with Miguel Almunia and Claudia Hupkau, and an intern at the Bank of Spain. I studied economics at the LSE and UC3M.
 
 My work leverages large-scale household surveys and administrative datasets to answer policy-oriented research questions in the realm of applied microeconomics.
 
