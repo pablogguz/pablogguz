@@ -20,5 +20,4 @@ i have +4 years of experience leveraging large-scale household surveys, administ
 
 [<img src="https://github.com/pablogguz/ineAtlas/raw/main/man/figures/logo.png" width="60"/>](https://github.com/pablogguz/ineAtlas)
 [<img src="https://github.com/pablogguz/subincomeR/raw/main/man/figures/logo.png" width="60"/>](https://github.com/pablogguz/subincomeR)
-[<img src="https://github.com/pablogguz/whed/raw/main/man/figures/logo.png" width="60"/>](https://github.com/pablogguz/whed)
 [<img src="https://github.com/pablogguz/ebrdify/raw/main/man/figures/logo.png" width="60"/>](https://github.com/pablogguz/ebrdify)
