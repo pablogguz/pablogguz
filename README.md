@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/pablogguz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogguz/)
-[![X (formerly Twitter)](https://img.shields.io/badge/@pablogguz_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![X (formerly Twitter)](https://img.shields.io/badge/@pablogguz_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pablogguz_)
 [![GitHub followers](https://img.shields.io/github/followers/pablogguz?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=100000)](https://github.com/pablogguz)
 
 ### hey! 👋
