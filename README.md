@@ -13,7 +13,7 @@ i have +4 years of experience leveraging large-scale household surveys, administ
 
 📊 **online apps**
 -  [LiTS IV Visualizer](https://lits-visualizer.ebrd.com/) - data tool to explore the results from a cross-country household survey (37,000+ respondents)
--  [From everywhere to Spain](https://pablogguz.shinyapps.io/dataviz_migration_esp/) - data tool to explore the Spanish administrative municipal registry (600+ mill. obs.)
+-  [From everywhere to Spain](https://pablogguz.shinyapps.io/dataviz_migration_esp/) - data tool to explore the Spanish administrative municipal registry and Census (+1 billion obs.)
 -  [Placement outcomes for PhD graduates in economics](https://pablogguz.shinyapps.io/econphd_placements/) - web-scraped data on individual-level PhD placements from 29 top economics departments worldwide
 -  [Datoscrimen.es](https://datoscrimen.es/) - data tool to explore data on municipality-level crime rates in Spain through interactive visuals
 -  [Comparatuingreso.es](https://comparatuingreso.es/) - data tool that enables Spanish households to calculate their relative position within the income distribution. Includes an interactive visualizer of neighborhood-level socio-economic variables
