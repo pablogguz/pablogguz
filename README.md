@@ -1,4 +1,4 @@
-[[![LinkedIn](https://img.shields.io/badge/pablogguz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogguz/)](https://img.shields.io/badge/LinkedIn_%7C_pablogguz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+[![LinkedIn](https://img.shields.io/badge/pablogguz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablogguz/)
 [![X (formerly Twitter)](https://img.shields.io/badge/@pablogguz_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pablogguz_)
 [![GitHub followers](https://img.shields.io/github/followers/pablogguz?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=100000&color=100000)](https://github.com/pablogguz)
 
@@ -33,6 +33,7 @@ i have +4 years of experience leveraging large-scale household surveys, administ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
 
 📦 **r packages**
 
