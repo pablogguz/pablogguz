@@ -9,7 +9,7 @@ i do applied microeconomic and policy research at the [EBRD](https://www.ebrd.co
 
 i have +4 years of experience leveraging large-scale household surveys, administrative and geospatial datasets to answer policy-oriented research questions. i also design [interactive visualizations tools](https://pablogguz.github.io/projects/) to maximize the impact of key products and, in my free time, to tell data stories about whatever i deem interesting.
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogguz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablogguz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 📊 **online apps**
 -  [LiTS IV Visualizer](https://lits-visualizer.ebrd.com/) - data tool to explore the results from a cross-country household survey (37,000+ respondents)
@@ -19,6 +19,7 @@ i have +4 years of experience leveraging large-scale household surveys, administ
 -  [datoscrimen.es](https://datoscrimen.es/) - data tool to explore data on municipality-level crime rates in Spain through interactive visuals
 -  [comparatuingreso.es](https://comparatuingreso.es/) - data tool that enables Spanish households to calculate their relative position within the income distribution. Includes an interactive visualizer of neighborhood-level socio-economic variables
 
+<!--- 
 🛠 **language and tools**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
@@ -33,7 +34,7 @@ i have +4 years of experience leveraging large-scale household surveys, administ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
+-->
 
 📦 **r packages**
 
