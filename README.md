@@ -16,7 +16,7 @@ i have +4 years of experience leveraging large-scale household surveys, administ
 -  [WikiBarrio](https://wikibarrio.es/) - interactive visualization tool to explore neighborhood-level socio-demographic data from Spain 
 -  [dedonde.es](https://dedonde.es/) - data tool to explore the Spanish administrative municipal registry and census (+1 billion obs.)
 -  [datoscrimen.es](https://datoscrimen.es/) - data tool to explore data on municipality-level crime rates in Spain through interactive visuals
--  [comparatuingreso.es](https://comparatuingreso.es/) - data tool that enables Spanish households to calculate their relative position within the income distribution. Includes an interactive visualizer of neighborhood-level socio-economic variables
+-  [comparatuingreso.es](https://comparatuingreso.es/) - data tool that enables Spanish households to calculate their relative position within the income distribution
 -  [Placement outcomes for PhD graduates in economics](https://pablogguz.shinyapps.io/econphd_placements/) - web-scraped data on individual-level PhD placements from 29 top economics departments worldwide
 
 <!--- 
