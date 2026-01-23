@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=hey!+i'm+pablo+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hey!+i'm+pablo+👋)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/pablogguz/)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pablogguz_)
@@ -10,16 +10,13 @@
 
 ---
 
-### hey! 👋
-i'm **pablo**.
-
 i do applied microeconomic and policy research at the [EBRD](https://www.ebrd.com/). previously, i worked in academia as a pre-doctoral research assistant. i studied economics at the [LSE](https://www.lse.ac.uk/) and [UC3M](https://www.uc3m.es/).
 
-i have +5 years of experience working with large-scale household surveys, administrative and geospatial datasets. i also build interactive data visualization tools to make data more accessible for everyone and make charts to tell stories about whatever i find interesting.
+i have +5 years of experience working with large-scale household surveys, administrative and geospatial datasets. i also build web applications (mostly interactive data visualization tools) to make data more accessible for everyone, and make charts to tell stories about whatever i find interesting.
 
 <br>
 
-### 🌐 data tools
+### 🌐 web applications
 
 | project | description |
 |:--------|:------------|
