@@ -18,15 +18,13 @@ i have +5 years of experience working with large-scale household surveys, admini
 
 ### 🌐 web applications
 
-| project | description |
-|:--------|:------------|
-| [**LiTS IV Visualizer**](https://lits-visualizer.ebrd.com/) | data tool to explore the results from a cross-country household survey (37,000+ respondents) |
-| [**WikiBarrio**](https://wikibarrio.es/) | interactive visualization tool to explore neighborhood-level socio-demographic data from spain |
-| [**observatoriorenta.es**](https://observatoriorenta.es/) | explore descriptive statistics on income and material well-being of spanish households based on microdata |
-| [**nta-spain.es**](https://www.nta-spain.es/) | explore how taxes paid and benefits received are distributed across the lifecycle in Spain |
-| [**dedonde.es**](https://dedonde.es/) | data tool to explore the spanish administrative municipal registry and census (+1 billion obs.) |
-| [**datoscrimen.es**](https://datoscrimen.es/) | data tool to explore municipality-level crime rates in Spain through interactive visuals |
-| [**comparatuingreso.es**](https://comparatuingreso.es/) | data tool that enables spanish households to calculate their relative position within the income distribution |
+- 🌍 [**LiTS IV Visualizer**](https://lits-visualizer.ebrd.com/) — data tool to explore the results from a cross-country household survey (37,000+ respondents)
+- 🏘️ [**WikiBarrio**](https://wikibarrio.es/) — interactive visualization tool to explore neighborhood-level socio-demographic data from Spain
+- 💰 [**observatoriorenta.es**](https://observatoriorenta.es/) — explore descriptive statistics on income and material well-being of Spanish households based on microdata
+- 🔄 [**nta-spain.es**](https://www.nta-spain.es/) — explore how taxes paid and benefits received are distributed across the lifecycle in Spain
+- 👥 [**dedonde.es**](https://dedonde.es/) — data tool to explore the Spanish administrative municipal registry and census (+1 billion obs.)
+- 🚔 [**datoscrimen.es**](https://datoscrimen.es/) — data tool to explore municipality-level crime rates in Spain through interactive visuals
+- 💶 [**comparatuingreso.es**](https://comparatuingreso.es/) — data tool that enables Spanish households to calculate their relative position within the income distribution
 
 <br>
 
